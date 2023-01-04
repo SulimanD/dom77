@@ -1,0 +1,15 @@
+C:\Users\su\Desktop\DOMASHKA77\bin\Debug\net6.0\DOMASHKA77.exe
+C:\Users\su\Desktop\DOMASHKA77\bin\Debug\net6.0\DOMASHKA77.deps.json
+C:\Users\su\Desktop\DOMASHKA77\bin\Debug\net6.0\DOMASHKA77.runtimeconfig.json
+C:\Users\su\Desktop\DOMASHKA77\bin\Debug\net6.0\DOMASHKA77.dll
+C:\Users\su\Desktop\DOMASHKA77\bin\Debug\net6.0\DOMASHKA77.pdb
+C:\Users\su\Desktop\DOMASHKA77\obj\Debug\net6.0\DOMASHKA77.csproj.AssemblyReference.cache
+C:\Users\su\Desktop\DOMASHKA77\obj\Debug\net6.0\DOMASHKA77.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\su\Desktop\DOMASHKA77\obj\Debug\net6.0\DOMASHKA77.AssemblyInfoInputs.cache
+C:\Users\su\Desktop\DOMASHKA77\obj\Debug\net6.0\DOMASHKA77.AssemblyInfo.cs
+C:\Users\su\Desktop\DOMASHKA77\obj\Debug\net6.0\DOMASHKA77.csproj.CoreCompileInputs.cache
+C:\Users\su\Desktop\DOMASHKA77\obj\Debug\net6.0\DOMASHKA77.dll
+C:\Users\su\Desktop\DOMASHKA77\obj\Debug\net6.0\refint\DOMASHKA77.dll
+C:\Users\su\Desktop\DOMASHKA77\obj\Debug\net6.0\DOMASHKA77.pdb
+C:\Users\su\Desktop\DOMASHKA77\obj\Debug\net6.0\DOMASHKA77.genruntimeconfig.cache
+C:\Users\su\Desktop\DOMASHKA77\obj\Debug\net6.0\ref\DOMASHKA77.dll
